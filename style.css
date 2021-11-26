@@ -1,0 +1,6 @@
+.contenedor-resumen{
+    display: flex;
+}
+.contenedor-chico{
+    margin: 15px;
+}
